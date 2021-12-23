@@ -4,8 +4,12 @@ How to install the mods:
 
 Select "Code" in the top left above the files.
 Select, "Download ZIP"
-Open the ZIP and click and drag into your Valheim\BepInEx\plugins folder
-  (To get to your Valheim folder, right click "Valheim" in Steam -> Properties -> Local Files -> Browse...
+
+Open the "BepInEx Configs" Folder and Drag and drop all contents into your Valheim directory
+  (To get to your Valheim folder, right click "Valheim" in Steam -> Properties -> Local Files -> Browse...)
+
+Go back inthe main ValMods folder and drag and drop everthing else besides HookGenPatcher into your Valheim\BepInEx\plugins folder
+  (To get to your Valheim folder, right click "Valheim" in Steam -> Properties -> Local Files -> Browse...)
 
 
 HookGenPatcher directions:
